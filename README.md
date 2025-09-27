@@ -115,17 +115,6 @@ GENxCRY/
 └── LICENSE               # MIT License
 ```
 
-## Resume Value ⭐
-
-This project demonstrates:
-
-- **Computer Vision & AI**: Image processing, data augmentation, ML dataset creation
-- **GUI Development**: Professional tkinter interface with modern UX
-- **Software Architecture**: Modular design, separation of concerns
-- **Industry Knowledge**: Understanding of ML workflows and data formats
-- **Problem Solving**: Addressing real-world AI training challenges
-
-**Rating: 9/10** - Excellent portfolio project showing both technical depth and practical application.
 
 ## Contributing
 
@@ -145,4 +134,4 @@ For issues and questions:
 
 MIT License - see LICENSE file for details.
 
-Created by RN Software with ❤️ for the AI community.
+Created by RN with ❤️ for the Dev community.
