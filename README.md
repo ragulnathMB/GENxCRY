@@ -1,4 +1,4 @@
-# GENxCRY - AI Dataset Generator
+# GENxCRY - Augmented Image Dataset Generator
 
 **By RN Software**
 
