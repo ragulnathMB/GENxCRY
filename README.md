@@ -53,7 +53,7 @@ python main.py
 
 ## 📺 Video Demo
 
-[![GENxCRY Demo Video](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE_VIDEO_LINK_HERE)
+[![GENxCRY Demo Video](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)]([Demo](https://www.youtube.com/watch?v=0V1UEjBTAnk))
 
 *Replace `YOUR_YOUTUBE_VIDEO_LINK_HERE` with your actual YouTube video URL*
 
